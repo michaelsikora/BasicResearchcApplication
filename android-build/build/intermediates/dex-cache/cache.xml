@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="A:\QtApps\BasicResearchApplication\android-build\libs\QtAndroid-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0beaf9c6a7e8c6575b844d9e83d0f22bd4859671">
+        <dex dex="A:\QtApps\BasicResearchApplication\android-build\build\intermediates\pre-dexed\debug\QtAndroid-bundled_58a6f3c62f4f8f0cdcad6e65f1edc81778bfff98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\QtApps\BasicResearchApplication\android-build\libs\QtMultimedia-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd626501f1e8ac18be7c059f6fe3518ba9f61fa5">
+        <dex dex="A:\QtApps\BasicResearchApplication\android-build\build\intermediates\pre-dexed\debug\QtMultimedia-bundled_4e8fe29bf69ba62a01b8579af3e81e67c58c669d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\QtApps\BasicResearchApplication\android-build\libs\QtAndroidBearer-bundled.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="28822a73b20607287b43ff7bb87aa2f97967d867">
+        <dex dex="A:\QtApps\BasicResearchApplication\android-build\build\intermediates\pre-dexed\debug\QtAndroidBearer-bundled_bbff3a846aa05f012b148fdb1b9152e2856e0716.jar" />
+    </item>
+
+</items>

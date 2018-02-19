@@ -1,0 +1,4 @@
+#Sun Feb 18 08:43:59 EST 2018
+base.0=A\:\\QtApps\\BasicResearchApplication\\android-build\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=A\:\\QtApps\\BasicResearchApplication\\android-build\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
