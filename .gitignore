@@ -1,2 +1,3 @@
-moc_*
-Debug
+moc_*.*
+debug/
+release/
